@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello charlie</h2>
-      <p class="text-center"> Hello from Spidy! ... </p>
+      <p class="text-center"> my web app / Hello from Spidy! ... </p>
   </div>
 </body>
 </html>
